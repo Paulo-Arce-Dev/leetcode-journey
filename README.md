@@ -4,12 +4,13 @@ Objetivo: Mejorar mi lógica de programación.
 
 ## Estadísticas
 
-- Arrays: 0
+- Arrays: 1
 - Strings: 0
-- Hash Maps: 0
+- Hash Maps: 1
 - Stacks: 0
+- Math: 1
 
-Total: 0 problemas
+Total: 2 problemas
 
 ## Reglas personales
 
