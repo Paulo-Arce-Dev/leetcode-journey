@@ -10,5 +10,3 @@ Topics:
 Difficulty:
 
 - Easy
-
-Date:
