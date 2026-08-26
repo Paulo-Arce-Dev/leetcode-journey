@@ -5,10 +5,10 @@ Objetivo: Mejorar mi lógica de programación.
 ## Estadísticas
 
 - Arrays: 1
-- Strings: 0
-- Hash Maps: 1
+- Strings: 1
+- Hash Maps: 2
 - Stacks: 0
-- Math: 1
+- Math: 2
 
 Total: 2 problemas
 
