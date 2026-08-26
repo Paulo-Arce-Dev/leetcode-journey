@@ -10,7 +10,7 @@ Objetivo: Mejorar mi lógica de programación.
 - Stacks: 0
 - Math: 2
 
-Total: 2 problemas
+Total: 3 problemas
 
 ## Reglas personales
 
