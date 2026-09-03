@@ -1,4 +1,4 @@
-# LeetCode Journey
+# LeetCode - Ejercicios
 
 Objetivo: Mejorar mi lógica de programación.
 
