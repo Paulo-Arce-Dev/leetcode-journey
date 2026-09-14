@@ -4,11 +4,13 @@ Objetivo: Mejorar mi lógica de programación.
 
 ## Estadísticas
 
-- Arrays: 1
-- Strings: 1
+- Arrays: 2
+- Strings: 3
 - Hash Maps: 2
-- Stacks: 0
+- Stacks: 1
 - Math: 2
+- Trie: 1
+- Bracket Sequences: 1
 
 Total: 3 problemas
 
