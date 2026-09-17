@@ -11,6 +11,8 @@ Objetivo: Mejorar mi lógica de programación.
 - Math: 2
 - Trie: 1
 - Bracket Sequences: 1
+- Linked list: 1
+- Recursion: 1
 
 Total: 3 problemas
 
