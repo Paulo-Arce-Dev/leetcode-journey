@@ -14,7 +14,7 @@ Objetivo: Mejorar mi lógica de programación.
 - Linked list: 1
 - Recursion: 1
 
-Total: 3 problemas
+Total: 6 problemas
 
 ## Reglas personales
 
