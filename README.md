@@ -4,7 +4,7 @@ Objetivo: Mejorar mi lógica de programación.
 
 ## Estadísticas
 
-- Arrays: 2
+- Arrays: 3
 - Strings: 3
 - Hash Maps: 2
 - Stacks: 1
@@ -13,8 +13,9 @@ Objetivo: Mejorar mi lógica de programación.
 - Bracket Sequences: 1
 - Linked list: 1
 - Recursion: 1
+- Two Pointers: 1
 
-Total: 6 problemas
+Total: 7 problemas
 
 ## Reglas personales
 
